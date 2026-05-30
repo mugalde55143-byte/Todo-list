@@ -1,0 +1,3 @@
+-Tareas pendientes
+- Notas de desarrollo
+- Recordatorios del equipo
