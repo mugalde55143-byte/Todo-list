@@ -1,0 +1,6 @@
+
+-Alertas tempranas
+-Verificación de tareas
+-Monitoreo continuo
+-Errores a evitar
+
